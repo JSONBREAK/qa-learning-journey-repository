@@ -1,7 +1,7 @@
 # Automation Mindset
 
 
-## 1️⃣ What is Test Automation (นิยามที่ถูกต้อง)
+## 1️⃣ What is Test Automation (นิยาม)
 Test Automation คือการใช้ซอฟต์แวร์เพื่อ validate system behavior อย่าง repeatable, reliable และ scalable ไม่ใช่แค่การเอา manual test มาเขียนเป็น script
 
 **เป้าหมายของ Automation:**
