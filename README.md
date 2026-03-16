@@ -1,18 +1,18 @@
 # 📚 QA Learning Journey
 
-> Self-learning repository to organize my QA knowledge  
-> (จัดระเบียบความรู้ QA ของตัวเอง - ตั้งแต่พื้นฐานจนถึงการทำงานจริง)
+> A structured QA learning repository used to study, document knowledge, and revisit concepts over time.
+> (สำหรับเรียน QA อย่างเป็นระบบ ใช้จดความรู้ และกลับมาทบทวนในระยะยาว)
 
 ---
 
 
 ## 🎯 Purpose
 
-- รวมความรู้ QA ตั้งแต่พื้นฐานจนถึงการทำงานจริง
-- สร้าง roadmap สำหรับ self-learning และ onboarding
-- เป็น reference สำหรับ QA, Dev, Product, Tech Lead
-- เตรียมพร้อมสำหรับงานจริงและการสอบสัมภาษณ์
-- อัปเดตเทคนิคใหม่ ๆ และ best practices
+- Organize QA knowledge from fundamentals to real-world practices
+- Build a structured learning roadmap for QA engineering
+- Serve as a long-term reference for testing concepts and techniques
+- Support preparation for real QA work and technical interviews
+- Continuously update testing techniques and best practices
 
 ---
 
@@ -55,21 +55,39 @@ qa-learning-journey-repository/
 ```
 
 ---
-## 💡 Quick Tips
+## 🧠 QA Principles to Remember
 
-**สิ่งที่ต้องจำ:**
-
-- ถาม requirement ให้ชัดก่อนเริ่ม
-- Test Case ต้อง reproducible
-- ใช้เทคนิคออกแบบ (BVA, EP, Decision Table) ให้คุ้มค่า
-- Bug Report ต้องครบ: Steps, Expected vs Actual, Evidence
+- Clarify requirements before starting testing
+- Test cases should always be reproducible
+- Apply test design techniques (BVA, EP, Decision Tables) effectively
+- Bug reports must include Steps, Expected vs Actual, and Evidence
 - Severity ≠ Priority
-- Regression Test คือเทสซ้ำส่วนที่อาจโดนผลกระทบ
+- Regression testing focuses on areas impacted by changes
 
 
 ---
 
-**Last Updated:** Feb 26, 2026
+## 📖 How This Repository Is Used
+
+This repository serves as:
+
+- A structured QA learning journal
+- A personal knowledge base for testing concepts
+- A reference when revisiting QA fundamentals
+- A long-term documentation of my QA learning journey
+
+---
+
+## 🗺️ Suggested Learning Path
+
+1. **QA Fundamentals** – Learn core testing concepts and quality principles
+2. **QA Process** – Understand how QA fits into real development workflows
+3. **Test Design Techniques** – Practice systematic test design strategies
+4. **Technical Skills** – Apply testing using SQL, APIs, and automation
+
+---
+
+**Last Updated:** February 2026
 
 
 
