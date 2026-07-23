@@ -1,18 +1,17 @@
 # 📚 QA Learning Journey
 
 > A structured QA learning repository used to study, document knowledge, and revisit concepts over time.
-> (สำหรับเรียน QA อย่างเป็นระบบ ใช้จดความรู้ และกลับมาทบทวนในระยะยาว)
+> *(ศูนย์รวมความรู้ QA อย่างเป็นระบบ สำหรับศึกษา จดบันทึก และทบทวนในระยะยาว)*
 
 ---
 
-
 ## 🎯 Purpose
 
-- Organize QA knowledge from fundamentals to real-world practices
-- Build a structured learning roadmap for QA engineering
-- Serve as a long-term reference for testing concepts and techniques
-- Support preparation for real QA work and technical interviews
-- Continuously update testing techniques and best practices
+- Organize QA knowledge systematically from fundamentals to real-world practices 
+- Build a structured learning roadmap for Quality Assurance Engineering 
+- Serve as a long-term reference for testing concepts, methodologies, and technical skills 
+- Support preparation for real QA workflows, project execution, and technical interviews 
+- Continuously update modern testing techniques, API validation, and test automation best practices
 
 ---
 
@@ -57,12 +56,12 @@ qa-learning-journey-repository/
 ---
 ## 🧠 QA Principles to Remember
 
-- Clarify requirements before starting testing
-- Test cases should always be reproducible
-- Apply test design techniques (BVA, EP, Decision Tables) effectively
-- Bug reports must include Steps, Expected vs Actual, and Evidence
-- Severity ≠ Priority
-- Regression testing focuses on areas impacted by changes
+- **Clarify requirements early** — Preventing defects is always cheaper than fixing them.
+- **Exhaustive testing is impossible** — Apply Risk-Based Testing to prioritize effectively.
+- **Reproducibility is key** — Test cases and bug reports must always be clear and reproducible.
+- **Master Test Design Techniques** — Use BVA, EP, and Decision Tables instead of random testing.
+- **Severity ≠ Priority** — Understand technical impact vs. business urgency.
+- **Regression Testing** — Always verify impacted areas after code changes or bug fixes.
 
 
 ---
@@ -71,19 +70,19 @@ qa-learning-journey-repository/
 
 This repository serves as:
 
-- A structured QA learning journal
-- A personal knowledge base for testing concepts
-- A reference when revisiting QA fundamentals
-- A long-term documentation of my QA learning journey
+- A structured QA learning journal and documentation
+- A personal knowledge base for software testing standards (ISTQB-aligned)
+- A quick reference when revisiting QA fundamentals or designing test cases
+- A portfolio demonstrating practical QA workflows, SQL, API testing, and Automation
 
 ---
 
 ## 🗺️ Suggested Learning Path
 
-1. **QA Fundamentals** – Learn core testing concepts and quality principles
-2. **QA Process** – Understand how QA fits into real development workflows
-3. **Test Design Techniques** – Practice systematic test design strategies
-4. **Technical Skills** – Apply testing using SQL, APIs, and automation
+1. **QA Fundamentals** – Master core testing principles and quality mindsets
+2. **QA Process** – Understand how QA integrates into real Agile/Scrum development cycles
+3. **Test Design Techniques** – Practice systematic test design strategies (EP, BVA, Decision Tables)
+4. **Technical Skills** – Validate data via SQL, test REST APIs, and write clean E2E Automation scripts
 
 ---
 
