@@ -33,11 +33,13 @@ qa-learning-journey-repository/
 │   └── 04-test-reporting/        # Test reporting
 │
 ├── 03-design-techniques/         # 🎨 Design Techniques (เทคนิคออกแบบ)
+│   ├── 00. Design Techniques Overview.md
 │   ├── 01-black-box/             # EP, BVA, Decision Table, State Transition
 │   ├── 02-white-box/             # Statement & Decision Coverage
 │   └── 03-experience-based/      # Exploratory, Error Guessing
 │
 ├── 04-technical-skills/          # 🛠️ Technical Skills (ทักษะเทคนิค)
+│   ├── Introboi.md               # Intro to technical skills
 │   ├── 01-database-sql/          # SQL for QA, Data Verification
 │   ├── 02-api-testing/           # API concepts, Postman, Test design
 │   ├── 03-test-automation/       # Automation mindset, Playwright, Locator Strategy, POM Best Practices
@@ -45,12 +47,6 @@ qa-learning-journey-repository/
 │
 ├── 05-resources/                 # 📦 Resources & Examples
 │   └── examples/                 # ตัวอย่างจากสถานการณ์จริง
-│
-└── 06-templates-cheatsheets/     # 📝 Templates & Cheatsheets
-    ├── test-case-template.md
-    ├── bug-report-template.md
-    ├── sql-cheatsheet.md
-    └── api-testing-checklist.md
 ```
 
 ---
