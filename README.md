@@ -24,7 +24,9 @@ qa-learning-journey-repository/
 │   ├── 01. QA Big Picture & Principles.md
 │   ├── 02. SDLC & STLC Framework.md
 │   ├── 03. Quality & Risk Thinking.md
-│   └── 04. Verification vs Validation.md
+│   ├── 04. Verification vs Validation.md
+│   ├── 05. Software Testing Principles.md
+│   └── 06. Testing Types Overview.md
 │
 ├── 02-qa-process/                # ⚙️ QA Workflow (กระบวนการทำงาน)
 │   ├── 01-requirement-analysis/  # Requirement analysis
